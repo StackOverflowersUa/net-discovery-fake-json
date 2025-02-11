@@ -1,0 +1,77 @@
+{
+  "quests": [
+    {
+        "title": "Test Quest #1",
+        "description": "Description for the test quest.",
+        "image": "https://files.idyllic.app/files/static/3773316?width=256&optimizer=image",
+        "count_tasks": 3,
+        "time_limit": 20,
+        "difficulty": "Easy",
+        "rating": 4,
+        "status": "Published",
+        "author": "admin"
+    },
+    {
+        "title": "Test Quest #2",
+        "description": "Description for the test quest.",
+        "count_tasks": 4,
+        "time_limit": 30,
+        "difficulty": "Medium",
+        "rating": 3,
+        "status": "Published",
+        "author": "admin"
+    },
+    {
+        "title": "Test Quest #3",
+        "description": "Description for the test quest.",
+        "image": "https://files.idyllic.app/files/static/3773316?width=256&optimizer=image",
+        "count_tasks": 4,
+        "time_limit": 30,
+        "difficulty": "Medium",
+        "rating": 3,
+        "status": "Published",
+        "author": "admin"
+    },{
+        "title": "Test Quest #4",
+        "description": "Description for the test quest.",
+        "image": "https://images.stockcake.com/public/3/0/9/3097ae5b-fccc-4be3-ba4c-e6a6d634839c_medium/luminous-mushroom-kingdom-stockcake.jpg",
+        "count_tasks": 4,
+        "time_limit": 30,
+        "difficulty": "Medium",
+        "rating": 3,
+        "status": "Published",
+        "author": "admin"
+    },{
+        "title": "Test Quest #5",
+        "description": "Description for the test quest.",
+        "count_tasks": 4,
+        "time_limit": 30,
+        "difficulty": "Medium",
+        "rating": 3,
+        "status": "Published",
+        "author": "admin"
+    },{
+        "title": "Test Quest #6",
+        "description": "Description for the test quest.",
+        "count_tasks": 4,
+        "time_limit": 30,
+        "difficulty": "Medium",
+        "rating": 3,
+        "status": "Published",
+        "author": "admin"
+    },{
+        "title": "Test Quest #7",
+        "description": "Description for the test quest.",
+        "image": "https://images.stockcake.com/public/3/0/9/3097ae5b-fccc-4be3-ba4c-e6a6d634839c_medium/luminous-mushroom-kingdom-stockcake.jpg",
+        "count_tasks": 4,
+        "time_limit": 30,
+        "difficulty": "Medium",
+        "rating": 3,
+        "status": "Published",
+        "author": "admin"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
