@@ -1,7 +1,7 @@
 {
   "quests": [
     {
-      "title": "Test Quest #1",
+      "title": "Test Quest 1",
       "description": "Description for the test quest.",
       "image": "https://files.idyllic.app/files/static/3773316?width=256&optimizer=image",
       "count_tasks": 3,
@@ -12,7 +12,7 @@
       "author": "admin"
     },
     {
-      "title": "Test Quest #2",
+      "title": "Test Quest 2",
       "description": "Description for the test quest.",
       "image": null,
       "count_tasks": 3,
@@ -23,7 +23,7 @@
       "author": "admin"
     },
     {
-      "title": "Test Quest #3",
+      "title": "Test Quest 3",
       "description": "Description for the test quest.",
       "image": "https://images.stockcake.com/public/3/0/9/3097ae5b-fccc-4be3-ba4c-e6a6d634839c_medium/luminous-mushroom-kingdom-stockcake.jpg",
       "count_tasks": 3,
@@ -34,7 +34,7 @@
       "author": "admin"
     },
     {
-      "title": "Test Quest #4",
+      "title": "Test Quest 4",
       "description": "Description for the test quest.",
       "image": "https://img.stablecog.com/insecure/256w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vMzEyYmMwMGMtY2IxOS00ZGE5LWIyZGYtNTQwYjY2NmQxZmE1LmpwZWc.webp",
       "count_tasks": 3,
@@ -45,7 +45,7 @@
       "author": "admin"
     },
     {
-      "title": "Test Quest #5",
+      "title": "Test Quest 5",
       "description": "Description for the test quest.",
       "image": "https://files.idyllic.app/files/static/3773316?width=256&optimizer=image",
       "count_tasks": 3,
@@ -56,7 +56,7 @@
       "author": "admin"
     },
     {
-      "title": "Test Quest #6",
+      "title": "Test Quest 6",
       "description": "Description for the test quest.",
       "image": null,
       "count_tasks": 3,
@@ -65,6 +65,17 @@
       "rating": 4,
       "status": "Published",
       "author": "admin"
+    }
+  ],
+  "profiles": [
+    {
+      "avatar": "https://preview.redd.it/poll-what-should-i-do-with-my-pokemon-go-ban-v0-vqk7zlwas7bb1.jpg?width=455&format=pjpg&auto=webp&s=2570d1506506872cf0a1b7acf729f28da1fa72ef",
+      "name": "Test User #1",
+      "average_rating": 4,
+      "quest_history": "",
+      "user": null,
+      "created_quests": [],
+      "completed_quests": []
     }
   ]
 }
