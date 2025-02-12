@@ -5,6 +5,7 @@
       "title": "Medieval Fantasy Quest",
       "description": "Ви потрапили до світу середньовічного фентезі. Допоможіть місцевим жителям, щоб дізнатися, як знайти мудру людину, що здатна повернути Вас додому.",
       "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/427/265/256/256/637658665442701432.jpeg",
+      "map_image": "https://2minutetabletop.com/wp-content/uploads/2020/02/Arvyre-Continent-Map-23x16-Base-Map.jpg",
       "count_tasks": 3,
       "time_limit": 1200,
       "difficulty": "Easy",
