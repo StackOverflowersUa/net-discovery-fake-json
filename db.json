@@ -1,7 +1,7 @@
 {
   "quests": [
     {
-      "id": 0,
+      "id": 1,
       "title": "Medieval Fantasy Quest",
       "description": "Ви потрапили до світу середньовічного фентезі. Допоможіть місцевим жителям, щоб дізнатися, як знайти мудру людину, що здатна повернути Вас додому.",
       "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/427/265/256/256/637658665442701432.jpeg",
@@ -14,7 +14,7 @@
       "author": "admin"
     },
     {
-      "id": 1,
+      "id": 0,
       "title": "Test Quest 2",
       "description": "Description for the test quest.",
       "thumbnail": null,
@@ -77,6 +77,7 @@
   "quest_tasks": [
     {
       "task_number": 1,
+      "quest": 1,
       "task_name": "Порт",
       "position_x": 40,
       "position_y": 45,
@@ -86,6 +87,7 @@
     },
     {
       "task_number": 2,
+      "quest": 1,
       "task_name": "Міст",
       "position_x": 61,
       "position_y": 24,
@@ -95,6 +97,7 @@
     },
     {
       "task_number": 3,
+      "quest": 1,
       "task_name": "Фортеця",
       "position_x": 81,
       "position_y": 65,
@@ -103,15 +106,17 @@
       "correct_index": 2
     }
   ],
-  "quest_progress": {
+  "quest_progress": [{
+    "quest": 1,
     "time_spent": 480,
     "task_statuses": {
       "1": "done",
       "2": "unfinished",
       "3": "unfinished"
     }
-  },
-  "profiles": {
+  }],
+  "profiles": [{
+    "id": 1,
     "avatar": "https://preview.redd.it/poll-what-should-i-do-with-my-pokemon-go-ban-v0-vqk7zlwas7bb1.jpg?width=455&format=pjpg&auto=webp&s=2570d1506506872cf0a1b7acf729f28da1fa72ef",
     "name": "Test User #1",
     "average_rating": 4,
@@ -119,5 +124,5 @@
     "user": null,
     "created_quests": [],
     "completed_quests": []
-  }
+  }]
 }
