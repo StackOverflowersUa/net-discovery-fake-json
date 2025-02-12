@@ -107,7 +107,7 @@
     }
   ],
   "quest_progress": [{
-    "quest": 1,
+    "user": 1,
     "time_spent": 480,
     "task_statuses": {
       "1": "done",
